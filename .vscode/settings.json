@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "connect_test",
+            "connectionTimeout": 30,
+            "username": "user_test",
+            "database": "fastapi",
+            "password": "123456"
+        }
+    ]
+}
